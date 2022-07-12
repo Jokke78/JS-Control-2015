@@ -2,430 +2,534 @@
 <doc>
 <assembly>
 <name>
-JSControl2015
+JS Control 2015
 </name>
 </assembly>
 <members>
+<member name="T:JS_Control_2015.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
 <member name="P:JS_Control_2015.My.Resources.Resources.ResourceManager">
-	<summary>
+<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Culture">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Culture">
+<summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._6041">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._6041">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._6042mato">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._6042mato">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._6042pe">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._6042pe">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._7011mato">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._7011mato">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._7011pe">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._7011pe">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._7021mato">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._7021mato">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._7021pe">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._7021pe">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._7031">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._7031">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._7051">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._7051">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._801">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._801">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._801_2">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._801_2">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._802a">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._802a">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._805">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._805">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._811">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._811">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._812a">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._812a">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._812i">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._812i">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._812L">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._812L">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._813a">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._813a">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._813i">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._813i">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._815a">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._815a">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._815i">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._815i">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._816a">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._816a">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._816i">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._816i">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._817a">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._817a">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._817i">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._817i">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._817L">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._817L">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._818">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._818">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._819">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._819">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._8LAR">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._8LAR">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources._error">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources._error">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.accept">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.accept">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.arrow_down">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.arrow_down">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.arrow_left">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.arrow_left">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.arrow_right">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.arrow_right">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.arrow_up">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.arrow_up">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Auto_on_ajokiellossa">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Auto_on_ajokiellossa">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Auto_on_korjaamolla">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Auto_on_korjaamolla">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.calculator">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.calculator">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.calendar">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.calendar">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.comment">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.comment">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.disc">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.disc">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.download">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.download">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.file">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.file">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.info">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.info">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.isoTallenna">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.isoTallenna">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.isotallennaSnamipmpi">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.isotallennaSnamipmpi">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.JSC_uusi_icon">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.JSC_uusi_icon">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Kartta_31">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Kartta_31">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.kartta_31_v2">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.kartta_31_v2">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LahtojenJakautuminenMA_PE">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LahtojenJakautuminenMA_PE">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Länsi_Etusivu">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Länsi_Etusivu">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.lock">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.lock">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.lock_open">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.lock_open">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.lomakierto">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.lomakierto">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT01">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT01">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT02">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT02">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT03">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT03">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT04">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT04">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT05">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT05">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT06">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT06">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT07">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT07">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT08">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT08">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT09">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT09">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT10">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT10">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT11">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT11">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT20">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT20">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT21">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT21">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.LT22">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.LT22">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.mobile">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.mobile">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.MS_kutsenit_4">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.MS_kutsenit_4">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.phone">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.phone">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.photo">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.photo">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.pohjoinen_info">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.pohjoinen_info">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.pohjoinen_ruokikset">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.pohjoinen_ruokikset">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.porukka">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.porukka">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.print">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.print">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.puhJoakim_1_2015">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.puhJoakim_1_2015">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.puhMinna_1_2015">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.puhMinna_1_2015">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.puhRaija_1_2015">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.puhRaija_1_2015">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.puhTanja_1_2015">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.puhTanja_1_2015">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.punainen_ruksi">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.punainen_ruksi">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.pysäköinnin_kartta_uusi">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.pysäköinnin_kartta_uusi">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Pysakoinninkuva">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Pysakoinninkuva">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.tallenneuusiiso">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.tallenneuusiiso">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.tausta2">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.tausta2">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Taustakuva1">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Taustakuva1">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.trash">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.trash">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.TVkiertoEspoo80">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.TVkiertoEspoo80">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.user">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.user">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.user_add">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.user_add">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.user_delete">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.user_delete">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.user_edit">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.user_edit">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.VaihtoautojenLiikkuminen">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.VaihtoautojenLiikkuminen">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.valu21_testi1">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.valu21_testi1">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Vantaa1_aamu">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Vantaa1_aamu">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Vantaa1_ilta">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Vantaa1_ilta">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Vantaa1_LA">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Vantaa1_LA">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Vantaa1_SU">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Vantaa1_SU">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Vantaa2">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Vantaa2">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Vantaa3_ajokaavio">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Vantaa3_ajokaavio">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Vantaa3_LA_ajokaavio">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Vantaa3_LA_ajokaavio">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:JS_Control_2015.My.Resources.Resources.Vantaa3_työvuorot">
-	<summary>
+</member>
+<member name="P:JS_Control_2015.My.Resources.Resources.Vantaa3_työvuorot">
+<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="T:JS_Control_2015.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
 </members>

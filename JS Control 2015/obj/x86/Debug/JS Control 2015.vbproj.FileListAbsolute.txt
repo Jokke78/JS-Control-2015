@@ -202,3 +202,86 @@ C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control
 C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Etatulostus.resources
 C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.XTulostaTyoOhje.resources
 C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.UudetTyoOhjeet.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbproj.AssemblyReference.cache
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Etatulostus.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kalusto.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KayttoestettyLOMAKE.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KesaLomatoiveidenIlmoittaminen.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kirjautuminen.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KirjautumisenSplah.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Korjaamo.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Lahtolista.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.UudetTyoOhjeet.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.xLahtoLista.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoListaUseatMuutokset.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LomaJaVapaaIlmoitukset.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LueTiedotteita.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Main.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Muuli.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Resources.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaKatsastuksienVuosiKoonti.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaKesalomaToiveet.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTalvilomaToiveet.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTyovuorolista.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Naytto2014.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.PysakointiHistoria.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.PysakointiNappeina.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.RekisteroiHloTagi.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.RyhmaSMSviestienLahettaminen.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.SelaaOhjeita.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.SeuraaPesuilmoituksia.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeTyomaaraus.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeVikailmoitus.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TehdytVikailmoitukset.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TM_Palautus.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoMaaraus.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoVuoroLista.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TyomaarayksetMain.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewUpdate.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewArrak.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoria.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoriaUUSI.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewKatsastustiedot.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewPalautaAuto.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaKatsastus.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaPesuilmoitus.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.XTulostaTyoOhje.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015._LahtolistaView1.resources
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbproj.GenerateResource.cache
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbproj.CoreCompileInputs.cache
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.xml
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.pdb
+V:\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe.config
+V:\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe.manifest
+V:\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.application
+V:\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe
+V:\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.pdb
+V:\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.xml
+V:\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\System.Management.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\System.Net.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe.manifest
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.application
+V:\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbproj.CopyComplete
+V:\JS Control 2015\JS Control 2015\bin\Debug\BouncyCastle.Crypto.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\Google.Protobuf.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\K4os.Compression.LZ4.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\K4os.Compression.LZ4.Streams.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\K4os.Hash.xxHash.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\MySql.Data.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\System.Buffers.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\System.Memory.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\Ubiety.Dns.Core.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\ZstdNet.dll
+V:\JS Control 2015\JS Control 2015\bin\Debug\Google.Protobuf.pdb
+V:\JS Control 2015\JS Control 2015\bin\Debug\Google.Protobuf.xml
+V:\JS Control 2015\JS Control 2015\bin\Debug\K4os.Compression.LZ4.xml
+V:\JS Control 2015\JS Control 2015\bin\Debug\K4os.Compression.LZ4.Streams.xml
+V:\JS Control 2015\JS Control 2015\bin\Debug\K4os.Hash.xxHash.xml
+V:\JS Control 2015\JS Control 2015\bin\Debug\MySql.Data.xml
+V:\JS Control 2015\JS Control 2015\bin\Debug\System.Buffers.xml
+V:\JS Control 2015\JS Control 2015\bin\Debug\System.Memory.xml
+V:\JS Control 2015\JS Control 2015\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

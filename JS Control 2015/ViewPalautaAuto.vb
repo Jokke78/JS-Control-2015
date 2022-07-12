@@ -155,7 +155,7 @@ Public Class ViewPalautaAuto
         Me.Dispose()
 
         Naytto2014.MdiParent = Main
-        Naytto2014.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Naytto2014.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
         Naytto2014.Location = New Point(0, 0)
         Naytto2014.WindowState = FormWindowState.Maximized

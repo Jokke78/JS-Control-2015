@@ -40,7 +40,7 @@ Public Class KirjautumisenSplah
         'Me.TopMost = False
         Me.Close()
         Naytto2014.MdiParent = Main
-        Naytto2014.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Naytto2014.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
         Naytto2014.Location = New Point(0, 0)
         Naytto2014.WindowState = FormWindowState.Maximized
@@ -90,7 +90,7 @@ Public Class KirjautumisenSplah
         'Me.TopMost = False
         Me.Close()
         Naytto2014.MdiParent = Main
-        Naytto2014.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Naytto2014.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
         Naytto2014.Location = New Point(0, 0)
         Naytto2014.WindowState = FormWindowState.Maximized
@@ -372,7 +372,7 @@ Public Class KirjautumisenSplah
             '    OhjelmanValintaValikko.Close()
 
             ViewPalautaAuto.MdiParent = Main
-            ViewPalautaAuto.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+            ViewPalautaAuto.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
             ViewPalautaAuto.Dock = DockStyle.Fill
             ViewPalautaAuto.WindowState = FormWindowState.Maximized
             ViewPalautaAuto.PiiloAuto.Text = AUTOOOO.Text

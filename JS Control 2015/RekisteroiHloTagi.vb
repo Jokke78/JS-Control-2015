@@ -109,7 +109,7 @@ Public Class RekisteroiHloTagi
         Me.Close()
 
         Kirjautuminen.MdiParent = Main
-        Kirjautuminen.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Kirjautuminen.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
         Kirjautuminen.Location = New Point(0, 0)
         Kirjautuminen.WindowState = FormWindowState.Maximized
@@ -228,7 +228,7 @@ Public Class RekisteroiHloTagi
         Me.Close()
 
         Kirjautuminen.MdiParent = Main
-        Kirjautuminen.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Kirjautuminen.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
         Kirjautuminen.Location = New Point(0, 0)
         Kirjautuminen.WindowState = FormWindowState.Maximized
@@ -256,7 +256,7 @@ Public Class RekisteroiHloTagi
         Me.Close()
 
         Kirjautuminen.MdiParent = Main
-        Kirjautuminen.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Kirjautuminen.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
         Kirjautuminen.Location = New Point(0, 0)
         Kirjautuminen.WindowState = FormWindowState.Maximized

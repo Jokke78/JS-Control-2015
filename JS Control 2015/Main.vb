@@ -210,7 +210,7 @@ Public Class Main
 
 
         Naytto2014.MdiParent = Me
-        Naytto2014.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Naytto2014.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Naytto2014.Dock = DockStyle.Fill
 
         Naytto2014.Show()
@@ -329,9 +329,9 @@ Public Class Main
             Naytto2014.Hide()
 
             Kirjautuminen.MdiParent = Me
-            Kirjautuminen.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Kirjautuminen.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
-            Kirjautuminen.Location = New Point(0, 0)
+        Kirjautuminen.Location = New Point(0, 0)
             Kirjautuminen.Dock = DockStyle.Fill
             Kirjautuminen.MinimizeBox = False
             Kirjautuminen.MaximizeBox = False
@@ -373,7 +373,7 @@ Public Class Main
                 'x tämä pois käytöstä 16.2.2015 alkaen, korvattu backupperila
                 Naytto2014.Close()
                 Naytto2014.MdiParent = Me
-                Naytto2014.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+                Naytto2014.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
                 Naytto2014.Location = New Point(0, 0)
                 Naytto2014.WindowState = FormWindowState.Maximized
@@ -965,7 +965,7 @@ alku:
                         '    OhjelmanValintaValikko.Close()
 
                         Naytto2014.MdiParent = Me
-                        Naytto2014.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+                        Naytto2014.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
                         Naytto2014.Dock = DockStyle.Fill
 
                         Naytto2014.Show()

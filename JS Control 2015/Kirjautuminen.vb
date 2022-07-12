@@ -22,7 +22,7 @@ Public Class Kirjautuminen
 
         'Me.TopMost = False
         Naytto2014.MdiParent = Main
-        Naytto2014.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        Naytto2014.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
         Naytto2014.Location = New Point(0, 0)
         Naytto2014.WindowState = FormWindowState.Maximized
@@ -55,6 +55,7 @@ Public Class Kirjautuminen
     Public Function HaeTagistaKayttajaTiedot(ByVal koodi As Integer)
         TbConnection.Close()
         Dim hloNro As Integer = 0 'cmd.ExecuteScalar
+        Dim dAl As Date = Format(Today, "\#yyyy\-MM\-dd\#")
         Try
             Dim cmd As New MySqlCommand()
             With cmd
@@ -64,13 +65,13 @@ Public Class Kirjautuminen
                       "WHERE (@PVM " & _
                     "BETWEEN AlkaenPVM AND AstiPVM) AND " & _
                     "(Nro = @ID) "
-                .Parameters.AddWithValue("@PVM", Today)
+                .Parameters.AddWithValue("@PVM", dAl)
                 .Parameters.AddWithValue("@ID", koodi)
 
             End With
 
             TbConnection.Open()
-            Dim rd As MySqlDataReader = cmd.ExecuteReader
+            Dim rd As MySqlDataReader = cmd.ExecuteReader()
 
             If rd.HasRows = True Then
                 While rd.Read
@@ -297,7 +298,7 @@ Public Class Kirjautuminen
                     'Else
                     ' ei pysäköinti tietoa
                     ViewPalautaAuto.MdiParent = Main
-                    ViewPalautaAuto.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+                    ViewPalautaAuto.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
 
                     ViewPalautaAuto.Location = New Point(0, 0)
                     ViewPalautaAuto.WindowState = FormWindowState.Maximized
@@ -2327,7 +2328,7 @@ Public Class Kirjautuminen
         '    OhjelmanValintaValikko.Close()
 
         KirjautumisenSplah.MdiParent = Main
-        KirjautumisenSplah.FormBorderStyle = Windows.Forms.FormBorderStyle.None
+        KirjautumisenSplah.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         KirjautumisenSplah.Dock = DockStyle.Fill
 
         KirjautumisenSplah.Show()

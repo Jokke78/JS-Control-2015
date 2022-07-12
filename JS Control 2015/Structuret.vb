@@ -8,7 +8,7 @@ Module Structuret
     'alla käytössä 18.9.2016 asti oleva ip
     ' Public serverString As String = "server=164.215.32.141;user id=sg1949_joakim; password=uqrh6755; database=sg1949_JSControl; Convert Zero Datetime=True" '; AllowZeroDatetime=True"
     'alla 18.9. alkaen uusi ip
-    Public serverString As String = "server=95.175.101.201;user id=sg1949_joakim; password=uqrh6755; database=sg1949_JSControl; Convert Zero Datetime=True" '; AllowZeroDatetime=True"
+    Public serverString As String = "server=157.230.112.222;user id=sg1949_joakim; password=uqrh6755; database=sg1949_JSControl; Convert Zero Datetime=True; SslMode=None;port=3306;persistsecurityinfo=True;" '; AllowZeroDatetime=True"
 
 
     Public OletusAuto As String = ""
