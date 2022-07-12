@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\jscontrol\|C:\Users\Joakim\Dropbox\JS Control 2015\|c:\JSCONTROL\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\jsop\jscontrol\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>https://www.dropbox.com/s/inebxv25tfiw168/setup.exe%3fdl=0/|https://www.dropbox.com/s/xvmhkmp1sbjbjx4/JS%2520Control%25202015.application%3fdl=0/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>

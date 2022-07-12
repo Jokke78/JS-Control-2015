@@ -1,0 +1,830 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5778C740-6801-4869-80C8-CC224D5B864A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>JS_Control_2015.My.MyApplication</StartupObject>
+    <RootNamespace>JS_Control_2015</RootNamespace>
+    <AssemblyName>JS Control 2015</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\jscontrol\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.11.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>JS Control 2015.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42025,42032,42036</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>JS Control 2015.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42025,42032,42036</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>902C6B9317C0318666A74C01B2F873CA581B489D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>JS Control 2015_7_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>convert.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ChilkatDotNet4, Version=9.5.0.0, Culture=neutral, PublicKeyToken=eb5fc1fc52ef09bd, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\ChilkatDotNet4-9.5.0-x64\ChilkatDotNet4-9.5.0-x64\ChilkatDotNet4.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Etatulostus.Designer.vb">
+      <DependentUpon>Etatulostus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Etatulostus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kalusto.designer.vb">
+      <DependentUpon>Kalusto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kalusto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KayttoestettyLOMAKE.Designer.vb">
+      <DependentUpon>KayttoestettyLOMAKE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KayttoestettyLOMAKE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KesaLomatoiveidenIlmoittaminen.Designer.vb">
+      <DependentUpon>KesaLomatoiveidenIlmoittaminen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KesaLomatoiveidenIlmoittaminen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kirjautuminen.Designer.vb">
+      <DependentUpon>Kirjautuminen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kirjautuminen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KirjautuminenSplah.Designer.vb">
+      <DependentUpon>KirjautuminenSplah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KirjautuminenSplah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Korjaamo.Designer.vb">
+      <DependentUpon>Korjaamo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Korjaamo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lahtolista.Designer.vb">
+      <DependentUpon>Lahtolista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Lahtolista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UudetTyoOhjeet.Designer.vb">
+      <DependentUpon>UudetTyoOhjeet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UudetTyoOhjeet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xLahtoLista.Designer.vb">
+      <DependentUpon>xLahtoLista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xLahtoLista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LahtoListaUseatMuutokset.Designer.vb">
+      <DependentUpon>LahtoListaUseatMuutokset.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LahtoListaUseatMuutokset.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LomaJaVapaaIlmoitukset.Designer.vb">
+      <DependentUpon>LomaJaVapaaIlmoitukset.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LomaJaVapaaIlmoitukset.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LueTiedotteita.Designer.vb">
+      <DependentUpon>LueTiedotteita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LueTiedotteita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muuli.Designer.vb">
+      <DependentUpon>Muuli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Muuli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NaytaKatsastuksienVuosiKoonti.designer.vb">
+      <DependentUpon>NaytaKatsastuksienVuosiKoonti.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NaytaKatsastuksienVuosiKoonti.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NaytaKesalomaToiveet.Designer.vb">
+      <DependentUpon>NaytaKesalomaToiveet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NaytaKesalomaToiveet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NaytaTalvilomaToiveet.designer.vb">
+      <DependentUpon>NaytaTalvilomaToiveet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NaytaTalvilomaToiveet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NaytaTyovuorolista.Designer.vb">
+      <DependentUpon>NaytaTyovuorolista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NaytaTyovuorolista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Naytto2014.Designer.vb">
+      <DependentUpon>Naytto2014.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Naytto2014.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PysakointiHistoria.designer.vb">
+      <DependentUpon>PysakointiHistoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PysakointiHistoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PysakointiNappeina.designer.vb">
+      <DependentUpon>PysakointiNappeina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PysakointiNappeina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RekisteroiHloTagi.Designer.vb">
+      <DependentUpon>RekisteroiHloTagi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RekisteroiHloTagi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RyhmaSMSviestienLahettaminen.designer.vb">
+      <DependentUpon>RyhmaSMSviestienLahettaminen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RyhmaSMSviestienLahettaminen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelaaOhjeita.designer.vb">
+      <DependentUpon>SelaaOhjeita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelaaOhjeita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeuraaPesuilmoituksia.designer.vb">
+      <DependentUpon>SeuraaPesuilmoituksia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SeuraaPesuilmoituksia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Structuret.vb" />
+    <Compile Include="TeeTyomaaraus.Designer.vb">
+      <DependentUpon>TeeTyomaaraus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TeeTyomaaraus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeeVikailmoitus.Designer.vb">
+      <DependentUpon>TeeVikailmoitus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TeeVikailmoitus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TehdytVikailmoitukset.Designer.vb">
+      <DependentUpon>TehdytVikailmoitukset.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TehdytVikailmoitukset.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TM_Palautus.Designer.vb">
+      <DependentUpon>TM_Palautus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TM_Palautus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TulostaTyoMaaraus.Designer.vb">
+      <DependentUpon>TulostaTyoMaaraus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TulostaTyoMaaraus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TulostaTyoVuoroLista.Designer.vb">
+      <DependentUpon>TulostaTyoVuoroLista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TulostaTyoVuoroLista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TyomaarayksetMain.designer.vb">
+      <DependentUpon>TyomaarayksetMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TyomaarayksetMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewUpdate.Designer.vb">
+      <DependentUpon>ViewUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewArrak.designer.vb">
+      <DependentUpon>ViewArrak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewArrak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewHuoltohistoria.Designer.vb">
+      <DependentUpon>ViewHuoltohistoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewHuoltohistoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewHuoltohistoriaUUSI.Designer.vb">
+      <DependentUpon>ViewHuoltohistoriaUUSI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewHuoltohistoriaUUSI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewKatsastustiedot.Designer.vb">
+      <DependentUpon>ViewKatsastustiedot.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewKatsastustiedot.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPalautaAuto.Designer.vb">
+      <DependentUpon>ViewPalautaAuto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPalautaAuto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewTallennaKatsastus.Designer.vb">
+      <DependentUpon>ViewTallennaKatsastus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewTallennaKatsastus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewTallennaPesuilmoitus.Designer.vb">
+      <DependentUpon>ViewTallennaPesuilmoitus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewTallennaPesuilmoitus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaterMark.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="xTulostaTyoOhje.designer.vb">
+      <DependentUpon>xTulostaTyoOhje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xTulostaTyoOhje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_LahtolistaView1.Designer.vb">
+      <DependentUpon>_LahtolistaView1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="_LahtolistaView1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Etatulostus.resx">
+      <DependentUpon>Etatulostus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kalusto.resx">
+      <DependentUpon>Kalusto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KayttoestettyLOMAKE.resx">
+      <DependentUpon>KayttoestettyLOMAKE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KesaLomatoiveidenIlmoittaminen.resx">
+      <DependentUpon>KesaLomatoiveidenIlmoittaminen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kirjautuminen.resx">
+      <DependentUpon>Kirjautuminen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KirjautuminenSplah.resx">
+      <DependentUpon>KirjautuminenSplah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korjaamo.resx">
+      <DependentUpon>Korjaamo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lahtolista.resx">
+      <DependentUpon>Lahtolista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UudetTyoOhjeet.resx">
+      <DependentUpon>UudetTyoOhjeet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xLahtoLista.resx">
+      <DependentUpon>xLahtoLista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LahtoListaUseatMuutokset.resx">
+      <DependentUpon>LahtoListaUseatMuutokset.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LomaJaVapaaIlmoitukset.resx">
+      <DependentUpon>LomaJaVapaaIlmoitukset.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LueTiedotteita.resx">
+      <DependentUpon>LueTiedotteita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muuli.resx">
+      <DependentUpon>Muuli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NaytaKatsastuksienVuosiKoonti.resx">
+      <DependentUpon>NaytaKatsastuksienVuosiKoonti.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NaytaKesalomaToiveet.resx">
+      <DependentUpon>NaytaKesalomaToiveet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NaytaTalvilomaToiveet.resx">
+      <DependentUpon>NaytaTalvilomaToiveet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NaytaTyovuorolista.resx">
+      <DependentUpon>NaytaTyovuorolista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Naytto2014.resx">
+      <DependentUpon>Naytto2014.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PysakointiHistoria.resx">
+      <DependentUpon>PysakointiHistoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PysakointiNappeina.resx">
+      <DependentUpon>PysakointiNappeina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RekisteroiHloTagi.resx">
+      <DependentUpon>RekisteroiHloTagi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RyhmaSMSviestienLahettaminen.resx">
+      <DependentUpon>RyhmaSMSviestienLahettaminen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelaaOhjeita.resx">
+      <DependentUpon>SelaaOhjeita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeuraaPesuilmoituksia.resx">
+      <DependentUpon>SeuraaPesuilmoituksia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeeTyomaaraus.resx">
+      <DependentUpon>TeeTyomaaraus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeeVikailmoitus.resx">
+      <DependentUpon>TeeVikailmoitus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TehdytVikailmoitukset.resx">
+      <DependentUpon>TehdytVikailmoitukset.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TM_Palautus.resx">
+      <DependentUpon>TM_Palautus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TulostaTyoMaaraus.resx">
+      <DependentUpon>TulostaTyoMaaraus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TulostaTyoVuoroLista.resx">
+      <DependentUpon>TulostaTyoVuoroLista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TyomaarayksetMain.resx">
+      <DependentUpon>TyomaarayksetMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewUpdate.resx">
+      <DependentUpon>ViewUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewArrak.resx">
+      <DependentUpon>ViewArrak.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewHuoltohistoria.resx">
+      <DependentUpon>ViewHuoltohistoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewHuoltohistoriaUUSI.resx">
+      <DependentUpon>ViewHuoltohistoriaUUSI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewKatsastustiedot.resx">
+      <DependentUpon>ViewKatsastustiedot.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPalautaAuto.resx">
+      <DependentUpon>ViewPalautaAuto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewTallennaKatsastus.resx">
+      <DependentUpon>ViewTallennaKatsastus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewTallennaPesuilmoitus.resx">
+      <DependentUpon>ViewTallennaPesuilmoitus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xTulostaTyoOhje.resx">
+      <DependentUpon>xTulostaTyoOhje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_LahtolistaView1.resx">
+      <DependentUpon>_LahtolistaView1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="JS Control 2015_1_TemporaryKey.pfx" />
+    <None Include="JS Control 2015_2_TemporaryKey.pfx" />
+    <None Include="JS Control 2015_3_TemporaryKey.pfx" />
+    <None Include="JS Control 2015_4_TemporaryKey.pfx" />
+    <None Include="JS Control 2015_5_TemporaryKey.pfx" />
+    <None Include="JS Control 2015_6_TemporaryKey.pfx" />
+    <None Include="JS Control 2015_7_TemporaryKey.pfx" />
+    <None Include="JS Control 2015_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\801_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LahtojenJakautuminenMA_PE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LT22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VaihtoautojenLiikkuminen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Länsi_Etusivu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8LAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\802a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\805.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\811.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\812a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\812i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\812L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\813a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\813i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\815a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\815i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\816a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\816i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\817a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\817i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\817L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\818.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\819.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kartta_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kartta_31_v2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TVkiertoEspoo80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vantaa1_aamu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vantaa1_ilta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vantaa1_LA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vantaa1_SU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vantaa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vantaa3_ajokaavio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vantaa3_LA_ajokaavio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vantaa3_työvuorot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6041.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6042mato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6042pe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7011mato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7011pe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7021mato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7021pe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7031.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7051.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pohjoinen_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pohjoinen_ruokikset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puhJoakim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puhMinna.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puhRaija.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puhTanja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pysäköinnin kartta uusi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Auto_on_ajokiellossa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Auto_on_korjaamolla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="convert.ico" />
+    <None Include="Resources\tausta2.png" />
+    <None Include="Resources\valu21_testi1.png" />
+    <None Include="Resources\user_edit.png" />
+    <None Include="Resources\user_delete.png" />
+    <None Include="Resources\user_add.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\trash.png" />
+    <None Include="Resources\Taustakuva1.png" />
+    <None Include="Resources\tallenneuusiiso.png" />
+    <None Include="Resources\Pysakoinninkuva.png" />
+    <None Include="Resources\punainen ruksi.png" />
+    <None Include="Resources\print.png" />
+    <None Include="Resources\porukka.png" />
+    <None Include="Resources\photo.png" />
+    <None Include="Resources\phone.png" />
+    <None Include="Resources\MS_kutsenit_4.png" />
+    <None Include="Resources\mobile.png" />
+    <None Include="Resources\lock_open.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\JSC_uusi_icon.png" />
+    <None Include="Resources\isotallennaSnamipmpi.png" />
+    <None Include="Resources\isoTallenna.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\file.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\disc.png" />
+    <None Include="Resources\comment.png" />
+    <None Include="Resources\calendar.png" />
+    <None Include="Resources\calculator.png" />
+    <None Include="Resources\arrow_up.png" />
+    <None Include="Resources\arrow_right.png" />
+    <None Include="Resources\arrow_left.png" />
+    <None Include="Resources\arrow_down.png" />
+    <None Include="Resources\accept.png" />
+    <None Include="Resources\error.png" />
+    <None Include="Resources\puhTanja_1_2015.png" />
+    <None Include="Resources\puhRaija_1_2015.png" />
+    <None Include="Resources\puhMinna_1_2015.png" />
+    <None Include="Resources\puhJoakim_1_2015.png" />
+    <None Include="Resources\lomakierto.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

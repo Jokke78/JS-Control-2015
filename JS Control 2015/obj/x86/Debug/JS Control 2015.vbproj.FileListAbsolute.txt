@@ -1,0 +1,204 @@
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.pdb
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.xml
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\ChilkatDotNet4.dll
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kirjautuminen.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KirjautumisenSplah.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoLista.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoListaUseatMuutokset.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Main.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Muuli.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Resources.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTyovuorolista.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Naytto2014.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.RekisteroiHloTagi.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeTyomaaraus.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeVikailmoitus.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TehdytVikailmoitukset.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TM_Palautus.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoMaaraus.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoVuoroLista.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoria.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewPalautaAuto.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaKatsastus.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaPesuilmoitus.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbproj.GenerateResource.Cache
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.xml
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.pdb
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.pdb
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.xml
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kirjautuminen.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KirjautumisenSplah.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoLista.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoListaUseatMuutokset.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Main.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Muuli.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Resources.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTyovuorolista.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Naytto2014.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.RekisteroiHloTagi.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeTyomaaraus.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeVikailmoitus.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TehdytVikailmoitukset.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TM_Palautus.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoMaaraus.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoVuoroLista.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoria.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewPalautaAuto.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaKatsastus.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaPesuilmoitus.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbproj.GenerateResource.Cache
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.xml
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.pdb
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe.manifest
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.application
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe.manifest
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.application
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kirjautuminen.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KirjautumisenSplah.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoLista.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoListaUseatMuutokset.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Main.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Muuli.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Resources.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTyovuorolista.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Naytto2014.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.RekisteroiHloTagi.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeTyomaaraus.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeVikailmoitus.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TehdytVikailmoitukset.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TM_Palautus.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoMaaraus.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoVuoroLista.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoria.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewPalautaAuto.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaKatsastus.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaPesuilmoitus.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbproj.GenerateResource.Cache
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe.manifest
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.application
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.pdb
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.xml
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe.manifest
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.application
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.xml
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.pdb
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\MySql.Data.dll
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbprojResolveAssemblyReference.cache
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbprojResolveAssemblyReference.cache
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.L_801.resources
+E:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.L_LT02.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.pdb
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\System.Management.dll
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\System.Net.dll
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kalusto.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LomaJaVapaaIlmoitukset.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LueTiedotteita.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.PysakointiHistoria.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.SelaaOhjeita.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015._LahtolistaView1.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Korjaamo.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaKatsastuksienVuosiKoonti.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTalvilomaToiveet.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.PysakointiNappeina.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.SeuraaPesuilmoituksia.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TyomaarayksetMain.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewArrak.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoriaUUSI.resources
+D:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewKatsastustiedot.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe.manifest
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.application
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.xml
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\System.Management.dll
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\System.Net.dll
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbprojResolveAssemblyReference.cache
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kalusto.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KayttoestettyLOMAKE.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KesaLomatoiveidenIlmoittaminen.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kirjautuminen.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KirjautumisenSplah.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Korjaamo.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoLista.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LahtoListaUseatMuutokset.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LomaJaVapaaIlmoitukset.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LueTiedotteita.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Main.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Muuli.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Resources.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaKatsastuksienVuosiKoonti.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaKesalomaToiveet.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTalvilomaToiveet.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTyovuorolista.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Naytto2014.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.PysakointiHistoria.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.PysakointiNappeina.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.RekisteroiHloTagi.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.RyhmaSMSviestienLahettaminen.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.SelaaOhjeita.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.SeuraaPesuilmoituksia.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeTyomaaraus.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TeeVikailmoitus.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TehdytVikailmoitukset.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TM_Palautus.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoMaaraus.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TulostaTyoVuoroLista.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TyomaarayksetMain.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewUpdate.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewArrak.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoria.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoriaUUSI.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewKatsastustiedot.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewPalautaAuto.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaKatsastus.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewTallennaPesuilmoitus.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015._LahtolistaView1.resources
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbproj.GenerateResource.Cache
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe.manifest
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.application
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.xml
+G:\JSOP\PROJEKTIT\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.pdb
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.exe.manifest
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\JS Control 2015.application
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\System.Management.dll
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\bin\Debug\System.Net.dll
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Kalusto.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KayttoestettyLOMAKE.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.KesaLomatoiveidenIlmoittaminen.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Korjaamo.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LomaJaVapaaIlmoitukset.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.LueTiedotteita.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaKatsastuksienVuosiKoonti.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaKesalomaToiveet.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.NaytaTalvilomaToiveet.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.PysakointiHistoria.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.PysakointiNappeina.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.RyhmaSMSviestienLahettaminen.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.SelaaOhjeita.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.SeuraaPesuilmoituksia.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.TyomaarayksetMain.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewUpdate.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewArrak.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewHuoltohistoriaUUSI.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.ViewKatsastustiedot.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015._LahtolistaView1.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.exe.manifest
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.application
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.xLahtoLista.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS Control 2015.vbprojResolveAssemblyReference.cache
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.Etatulostus.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.XTulostaTyoOhje.resources
+C:\Users\Joakim\Documents\Visual Studio 2010\Projects\JS Control 2015\JS Control 2015\obj\x86\Debug\JS_Control_2015.UudetTyoOhjeet.resources
